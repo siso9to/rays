@@ -1,7 +1,7 @@
 // -*- mode: objc -*-
 #import "rays/camera.h"
 
-
+#import <CoreImage/CoreImage.h>
 #import <AVFoundation/AVFoundation.h>
 #include "rays/exception.h"
 #include "bitmap.h"
